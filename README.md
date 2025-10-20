@@ -1,4 +1,4 @@
-TQI-Checker
+# TQI-Checker
 
 Automatically highlights Techniques, Quotes, and Inference in English essays. Uses custom keyword lists to detect writing features and colour-codes them in the terminal for quick marking and feedback.
 
